@@ -1,0 +1,1 @@
+include ':app', ':autobahn-0.5.0', ':jackson-core-asl-1.9.7', ':jackson-mapper-asl-1.9.7'
